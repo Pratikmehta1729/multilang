@@ -1,0 +1,72 @@
+/home/AzureUser/final/multilang/server.js:57
+app.get('/:id',,async(req,res)=>{
+               ^
+
+SyntaxError: Unexpected token ,
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16)
+    at bootstrap_node.js:609:3
+Running at http://0.0.0.0:5000
+(node:28743) DeprecationWarning: collection.ensureIndex is deprecated. Use createIndexes instead.
+Connected to MongoDB
+***Started*** Mon Jun 08 2020 10:27:17 GMT+0000 (UTC)
+initail-> a=$a; a; 
+varObj-> { '$a': '4', '$b': '3' }
+removed $-> a=4; a;
+final-> 
+a=4;print( a)
+{ Error: ENOENT: no such file or directory, stat '/home/AzureUser/final/multilang/space/1062bfa0-1bb0-4f81-9f0a-af36f22a35ae'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/AzureUser/final/multilang/space/1062bfa0-1bb0-4f81-9f0a-af36f22a35ae' }
+***Started*** Mon Jun 08 2020 10:27:24 GMT+0000 (UTC)
+initail-> a=$a; a; 
+varObj-> { '$a': '4', '$b': '3' }
+removed $-> a=4; a;
+final-> 
+a=4;print( a)
+{ Error: ENOENT: no such file or directory, stat '/home/AzureUser/final/multilang/space/089df5f1-28a2-499e-ae58-644e40f01c3b'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/AzureUser/final/multilang/space/089df5f1-28a2-499e-ae58-644e40f01c3b' }
+***Started*** Mon Jun 08 2020 10:27:28 GMT+0000 (UTC)
+initail-> a=$a; a; 
+varObj-> { '$a': '4', '$b': '3' }
+removed $-> a=4; a;
+final-> 
+a=4;print( a)
+{ Error: ENOENT: no such file or directory, stat '/home/AzureUser/final/multilang/space/6dd0467c-f130-40bf-8b85-e0763c7dac12'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/AzureUser/final/multilang/space/6dd0467c-f130-40bf-8b85-e0763c7dac12' }
+***Started*** Mon Jun 08 2020 10:27:38 GMT+0000 (UTC)
+initail-> a=$a; a; 
+varObj-> { '$a': '4', '$b': '3' }
+removed $-> a=4; a;
+final-> 
+a=4;print( a)
+{ Error: ENOENT: no such file or directory, stat '/home/AzureUser/final/multilang/space/b74616f3-93f7-4e50-ae2e-133d8d28925f'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/AzureUser/final/multilang/space/b74616f3-93f7-4e50-ae2e-133d8d28925f' }
+Running at http://0.0.0.0:5000
+(node:29788) DeprecationWarning: collection.ensureIndex is deprecated. Use createIndexes instead.
+Connected to MongoDB
+***Started*** Mon Jun 08 2020 10:32:09 GMT+0000 (UTC)
+initail-> a=$a; a; 
+varObj-> { '$a': '4', '$b': '3' }
+removed $-> a=4; a;
+final-> 
+a=4;print( a)
+***Done*** Mon Jun 08 2020 10:32:11 GMT+0000 (UTC)

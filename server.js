@@ -54,7 +54,7 @@ app.post('/uploadCode', async(req, res)=>{
   res.send(result)
 })
 
-app.get('/:id',,async(req,res)=>{
+app.get('/:id',async(req,res)=>{
   const result = await codeSchema.findOne({id:req.params.id})
   res.send(result)
 })
