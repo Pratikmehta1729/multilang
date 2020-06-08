@@ -49,8 +49,8 @@ app.post('/runInFlow',async(req, res)=>{
 });
 
 app.post('/uploadCode', async(req, res)=>{
-  const {id,lang, code, varObj }= req.body
-  const result = await codeSchema.updateOne({id:id},{$set:{code:code,lang:lang,varObj:varObj}},{upsert:true})
+  const {id,lang, code, vars }= req.body
+  const result = await codeSchema.updateOne({id:id},{$set:{code:code,lang:lang,varObj:vars}},{upsert:true})
   res.send(result)
 })
 
