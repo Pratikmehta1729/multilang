@@ -46,7 +46,7 @@
  ```
  {
     	"id":"5",
-    	"varObj":["$a"],
+    	"vars":["$a"],
     	"code":"<?php \n$value=$a; \n $a;?>",
     	"lang":"php"
 	
