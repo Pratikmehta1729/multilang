@@ -70,3 +70,848 @@ removed $-> a=4; a;
 final-> 
 a=4;print( a)
 ***Done*** Mon Jun 08 2020 10:32:11 GMT+0000 (UTC)
+get api to see all codes
+***Started*** Mon Jun 08 2020 11:10:35 GMT+0000 (UTC)
+initail-> undefined
+varObj-> undefined
+TypeError: Cannot read property 'replace' of undefined
+    at prepareCode (/home/AzureUser/final/multilang/sandbox.js:27:15)
+    at prepare (/home/AzureUser/final/multilang/sandbox.js:38:10)
+    at exports.execute (/home/AzureUser/final/multilang/sandbox.js:53:27)
+    at app.post (/home/AzureUser/final/multilang/server.js:41:18)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/AzureUser/final/multilang/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/AzureUser/final/multilang/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at /home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:275:10)
+    at app.use (/home/AzureUser/final/multilang/server.js:35:3)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:317:13)
+    at /home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:335:12)
+***Started*** Mon Jun 08 2020 11:13:12 GMT+0000 (UTC)
+initail-> undefined
+varObj-> undefined
+TypeError: Cannot read property 'replace' of undefined
+    at prepareCode (/home/AzureUser/final/multilang/sandbox.js:27:15)
+    at prepare (/home/AzureUser/final/multilang/sandbox.js:38:10)
+    at exports.execute (/home/AzureUser/final/multilang/sandbox.js:53:27)
+    at app.post (/home/AzureUser/final/multilang/server.js:41:18)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/AzureUser/final/multilang/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/AzureUser/final/multilang/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at /home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:275:10)
+    at app.use (/home/AzureUser/final/multilang/server.js:35:3)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:317:13)
+    at /home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:335:12)
+***Started*** Mon Jun 08 2020 11:13:27 GMT+0000 (UTC)
+initail-> undefined
+varObj-> undefined
+TypeError: Cannot read property 'replace' of undefined
+    at prepareCode (/home/AzureUser/final/multilang/sandbox.js:27:15)
+    at prepare (/home/AzureUser/final/multilang/sandbox.js:38:10)
+    at exports.execute (/home/AzureUser/final/multilang/sandbox.js:53:27)
+    at app.post (/home/AzureUser/final/multilang/server.js:41:18)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/AzureUser/final/multilang/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/AzureUser/final/multilang/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at /home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:275:10)
+    at app.use (/home/AzureUser/final/multilang/server.js:35:3)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:317:13)
+    at /home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:335:12)
+***Started*** Mon Jun 08 2020 11:15:38 GMT+0000 (UTC)
+initail-> let l=4;
+l
+varObj-> undefined
+removed $-> let l=4;
+l
+TypeError: Cannot read property 'addStdout' of undefined
+    at prepareCode (/home/AzureUser/final/multilang/sandbox.js:29:22)
+    at prepare (/home/AzureUser/final/multilang/sandbox.js:38:10)
+    at exports.execute (/home/AzureUser/final/multilang/sandbox.js:53:27)
+    at app.post (/home/AzureUser/final/multilang/server.js:41:18)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/AzureUser/final/multilang/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/AzureUser/final/multilang/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at /home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:275:10)
+    at app.use (/home/AzureUser/final/multilang/server.js:35:3)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:317:13)
+    at /home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:335:12)
+***Started*** Mon Jun 08 2020 11:16:18 GMT+0000 (UTC)
+initail-> let l=4;
+l
+varObj-> undefined
+removed $-> let l=4;
+l
+TypeError: Cannot read property 'addStdout' of undefined
+    at prepareCode (/home/AzureUser/final/multilang/sandbox.js:29:22)
+    at prepare (/home/AzureUser/final/multilang/sandbox.js:38:10)
+    at exports.execute (/home/AzureUser/final/multilang/sandbox.js:53:27)
+    at app.post (/home/AzureUser/final/multilang/server.js:41:18)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/AzureUser/final/multilang/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/AzureUser/final/multilang/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at /home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:275:10)
+    at app.use (/home/AzureUser/final/multilang/server.js:35:3)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:317:13)
+    at /home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:335:12)
+***Started*** Mon Jun 08 2020 11:21:51 GMT+0000 (UTC)
+initail-> l=4;
+l
+varObj-> { '$i': '1' }
+removed $-> l=4;
+l
+TypeError: Cannot read property 'addStdout' of undefined
+    at prepareCode (/home/AzureUser/final/multilang/sandbox.js:29:22)
+    at prepare (/home/AzureUser/final/multilang/sandbox.js:38:10)
+    at exports.execute (/home/AzureUser/final/multilang/sandbox.js:53:27)
+    at app.post (/home/AzureUser/final/multilang/server.js:41:18)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/AzureUser/final/multilang/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/AzureUser/final/multilang/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at /home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:275:10)
+    at app.use (/home/AzureUser/final/multilang/server.js:35:3)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:317:13)
+    at /home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:335:12)
+***Started*** Mon Jun 08 2020 11:22:37 GMT+0000 (UTC)
+initail-> a=$a  
+ a; 
+
+varObj-> { '$a': '2', '$b': '3' }
+removed $-> a=2  
+ a;
+final-> a=2  
+print( a)
+***Done*** Mon Jun 08 2020 11:22:39 GMT+0000 (UTC)
+Running at http://0.0.0.0:5000
+(node:33262) DeprecationWarning: collection.ensureIndex is deprecated. Use createIndexes instead.
+Connected to MongoDB
+***Started*** Mon Jun 08 2020 11:26:28 GMT+0000 (UTC)
+initail-> let a=$a  
+ a;
+varObj-> { '$a': '2', '$b': '3' }
+removed $-> let a=2  
+ a;
+TypeError: Cannot read property 'addStdout' of undefined
+    at prepareCode (/home/AzureUser/final/multilang/sandbox.js:29:22)
+    at prepare (/home/AzureUser/final/multilang/sandbox.js:38:10)
+    at exports.execute (/home/AzureUser/final/multilang/sandbox.js:53:27)
+    at app.post (/home/AzureUser/final/multilang/server.js:41:18)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/AzureUser/final/multilang/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/AzureUser/final/multilang/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at /home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:275:10)
+    at app.use (/home/AzureUser/final/multilang/server.js:35:3)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:317:13)
+    at /home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:335:12)
+SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at parse (/home/AzureUser/final/multilang/node_modules/body-parser/lib/types/json.js:89:19)
+    at /home/AzureUser/final/multilang/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/home/AzureUser/final/multilang/node_modules/raw-body/index.js:224:16)
+    at done (/home/AzureUser/final/multilang/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/home/AzureUser/final/multilang/node_modules/raw-body/index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+***Started*** Mon Jun 08 2020 11:27:26 GMT+0000 (UTC)
+initail-> a=$a  
+ a; 
+
+varObj-> { '$a': '2', '$b': '3' }
+removed $-> a=2  
+ a;
+final-> a=2  
+print( a)
+***Done*** Mon Jun 08 2020 11:27:27 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 11:27:31 GMT+0000 (UTC)
+initail-> a=$a  
+ a; 
+
+varObj-> { '$a': '2', '$b': '3' }
+removed $-> a=2  
+ a;
+final-> a=2  
+print( a)
+***Done*** Mon Jun 08 2020 11:27:32 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 11:27:56 GMT+0000 (UTC)
+initail-> a=4
+a
+varObj-> { '$i': '1' }
+removed $-> a=4
+a
+final-> a=4
+print(a)
+***Done*** Mon Jun 08 2020 11:28:00 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 11:28:16 GMT+0000 (UTC)
+initail-> let l=4;
+l
+varObj-> { '$i': '1' }
+removed $-> let l=4;
+l
+TypeError: Cannot read property 'addStdout' of undefined
+    at prepareCode (/home/AzureUser/final/multilang/sandbox.js:29:22)
+    at prepare (/home/AzureUser/final/multilang/sandbox.js:38:10)
+    at exports.execute (/home/AzureUser/final/multilang/sandbox.js:53:27)
+    at app.post (/home/AzureUser/final/multilang/server.js:41:18)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/AzureUser/final/multilang/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/AzureUser/final/multilang/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at /home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:275:10)
+    at app.use (/home/AzureUser/final/multilang/server.js:35:3)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:317:13)
+    at /home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:335:12)
+***Started*** Mon Jun 08 2020 11:29:04 GMT+0000 (UTC)
+initail-> var a=$a  
+ a; 
+
+varObj-> { '$a': '2', '$b': '3' }
+removed $-> var a=2  
+ a;
+final-> var a=2  
+console.log( a)
+***Started*** Mon Jun 08 2020 11:29:07 GMT+0000 (UTC)
+initail-> l=4;
+l
+varObj-> { '$i': '1' }
+removed $-> l=4;
+l
+final-> l=4;
+print(l)
+***Done*** Mon Jun 08 2020 11:29:13 GMT+0000 (UTC)
+***Done*** Mon Jun 08 2020 11:29:14 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 11:29:21 GMT+0000 (UTC)
+initail-> var a=$a  
+ a; 
+
+varObj-> { '$a': '2', '$b': '3' }
+removed $-> var a=2  
+ a;
+final-> var a=2  
+console.log( a)
+***Done*** Mon Jun 08 2020 11:29:31 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 11:29:32 GMT+0000 (UTC)
+initail-> let l=4;
+l
+varObj-> { '$i': '1' }
+removed $-> let l=4;
+l
+TypeError: Cannot read property 'addStdout' of undefined
+    at prepareCode (/home/AzureUser/final/multilang/sandbox.js:29:22)
+    at prepare (/home/AzureUser/final/multilang/sandbox.js:38:10)
+    at exports.execute (/home/AzureUser/final/multilang/sandbox.js:53:27)
+    at app.post (/home/AzureUser/final/multilang/server.js:41:18)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/AzureUser/final/multilang/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/AzureUser/final/multilang/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at /home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:275:10)
+    at app.use (/home/AzureUser/final/multilang/server.js:35:3)
+    at Layer.handle [as handle_request] (/home/AzureUser/final/multilang/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:317:13)
+    at /home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/AzureUser/final/multilang/node_modules/express/lib/router/index.js:335:12)
+***Started*** Mon Jun 08 2020 11:30:12 GMT+0000 (UTC)
+initail-> var a=$a  
+ a; 
+
+varObj-> { '$a': '2', '$b': '3' }
+removed $-> var a=2  
+ a;
+final-> var a=2  
+console.log( a)
+***Started*** Mon Jun 08 2020 11:30:14 GMT+0000 (UTC)
+initail-> let l=4;
+l
+varObj-> { '$i': '1' }
+removed $-> let l=4;
+l
+final-> let l=4;
+console.log(l)
+***Done*** Mon Jun 08 2020 11:30:15 GMT+0000 (UTC)
+***Done*** Mon Jun 08 2020 11:30:16 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 11:31:02 GMT+0000 (UTC)
+initail-> <?php $ba=$a  
+ $ba; 
+ ?>
+varObj-> { '$a': '2', '$b': '3' }
+removed $-> <?php $ba=2  
+ $ba; 
+ ?>
+final-> <?php $ba=2  
+echo( $ba)
+?>
+***Done*** Mon Jun 08 2020 11:31:05 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 11:31:10 GMT+0000 (UTC)
+initail-> <?php $ba=$a  
+ $ba; 
+ ?>
+varObj-> { '$a': '2', '$b': '3' }
+removed $-> <?php $ba=2  
+ $ba; 
+ ?>
+final-> <?php $ba=2  
+echo( $ba)
+?>
+***Done*** Mon Jun 08 2020 11:31:13 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 11:31:31 GMT+0000 (UTC)
+initail-> <?php $ba=$a;  
+ $ba; 
+ ?>
+varObj-> { '$a': '2', '$b': '3' }
+removed $-> <?php $ba=2;  
+ $ba; 
+ ?>
+final-> <?php $ba=2;  
+echo( $ba)
+?>
+***Done*** Mon Jun 08 2020 11:31:32 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 11:33:49 GMT+0000 (UTC)
+initail-> <?php $ba=$a;  
+ $ba; 
+ ?>
+varObj-> { '$i': '1' }
+removed $-> <?php $ba=$a;  
+ $ba; 
+ ?>
+final-> <?php $ba=$a;  
+ $ba; 
+console.log( ?>)
+***Done*** Mon Jun 08 2020 11:33:50 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 11:33:58 GMT+0000 (UTC)
+initail-> <?php $ba=$a;  
+ $ba; 
+ ?>
+varObj-> { '$i': '1' }
+removed $-> <?php $ba=$a;  
+ $ba; 
+ ?>
+final-> <?php $ba=$a;  
+echo( $ba)
+?>
+***Done*** Mon Jun 08 2020 11:33:59 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 11:35:04 GMT+0000 (UTC)
+initail-> <?php $ba=$a;  
+ $ba; 
+ ?>
+varObj-> { '$a': '"2"' }
+removed $-> <?php $ba="2";  
+ $ba; 
+ ?>
+final-> <?php $ba="2";  
+echo( $ba)
+?>
+***Done*** Mon Jun 08 2020 11:35:05 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 11:40:07 GMT+0000 (UTC)
+initail-> let l =4;
+l
+varObj-> { '$i': '1' }
+removed $-> let l =4;
+l
+final-> let l =4;
+console.log(l)
+***Done*** Mon Jun 08 2020 11:40:08 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:07:27 GMT+0000 (UTC)
+initail-> let l=4;
+l
+varObj-> { '$i': '1' }
+removed $-> let l=4;
+l
+final-> let l=4;
+console.log(l)
+***Done*** Mon Jun 08 2020 12:07:28 GMT+0000 (UTC)
+(node:33262) UnhandledPromiseRejectionWarning: CastError: Cast to [string] failed for value "[{"$i":1}]" at path "varObj"
+    at model.Query.exec (/home/AzureUser/final/multilang/node_modules/mongoose/lib/query.js:4351:21)
+    at model.Query.Query.then (/home/AzureUser/final/multilang/node_modules/mongoose/lib/query.js:4443:15)
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+(node:33262) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 7)
+(node:33262) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:33262) UnhandledPromiseRejectionWarning: CastError: Cast to [string] failed for value "[{"$i":1}]" at path "varObj"
+    at model.Query.exec (/home/AzureUser/final/multilang/node_modules/mongoose/lib/query.js:4351:21)
+    at model.Query.Query.then (/home/AzureUser/final/multilang/node_modules/mongoose/lib/query.js:4443:15)
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+(node:33262) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 8)
+(node:33262) UnhandledPromiseRejectionWarning: CastError: Cast to [string] failed for value "[{"$i":1}]" at path "varObj"
+    at model.Query.exec (/home/AzureUser/final/multilang/node_modules/mongoose/lib/query.js:4351:21)
+    at model.Query.Query.then (/home/AzureUser/final/multilang/node_modules/mongoose/lib/query.js:4443:15)
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+(node:33262) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 9)
+(node:33262) UnhandledPromiseRejectionWarning: CastError: Cast to [string] failed for value "[{"$i":1}]" at path "varObj"
+    at model.Query.exec (/home/AzureUser/final/multilang/node_modules/mongoose/lib/query.js:4351:21)
+    at model.Query.Query.then (/home/AzureUser/final/multilang/node_modules/mongoose/lib/query.js:4443:15)
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+(node:33262) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 10)
+get api to see all codes
+get api to see all codes
+get api to see all codes
+get api to see all codes
+get api to see all codes
+***Started*** Mon Jun 08 2020 12:19:51 GMT+0000 (UTC)
+initail-> <?php 
+$value=$a; 
+ $a;?>
+varObj-> { '$a': '2' }
+removed $-> <?php 
+$value=2; 
+ 2;?>
+final-> <?php 
+$value=2; 
+echo( 2)
+?>
+***Done*** Mon Jun 08 2020 12:19:53 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:20:07 GMT+0000 (UTC)
+initail-> let l=4;
+ l
+varObj-> { '$a': '2' }
+removed $-> let l=4;
+ l
+final-> let l=4;
+console.log( l)
+***Done*** Mon Jun 08 2020 12:20:09 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:23:58 GMT+0000 (UTC)
+initail-> with open("file.txt",'w') as f:
+    f.write('hello world')
+
+
+varObj-> { '$i': '1' }
+removed $-> with open("file.txt",'w') as f:
+    f.write('hello world')
+final-> with open("file.txt",'w') as f:
+print(    f.write('hello world'))
+***Done*** Mon Jun 08 2020 12:23:59 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:24:22 GMT+0000 (UTC)
+initail-> with open("file.txt",'w') as f:
+    f.write('hello world')
+
+
+varObj-> { '$i': '1' }
+removed $-> with open("file.txt",'w') as f:
+    f.write('hello world')
+final-> with open("file.txt",'w') as f:
+print(    f.write('hello world'))
+***Done*** Mon Jun 08 2020 12:24:23 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:24:45 GMT+0000 (UTC)
+initail-> with open("file.txt",'w') as f:
+  f.write('hello world')
+
+
+varObj-> { '$i': '1' }
+removed $-> with open("file.txt",'w') as f:
+  f.write('hello world')
+final-> with open("file.txt",'w') as f:
+print(  f.write('hello world'))
+***Done*** Mon Jun 08 2020 12:24:46 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:25:43 GMT+0000 (UTC)
+initail-> with open("file.txt",'w') as f:
+    f.write('hello world')
+
+
+varObj-> { '$i': '1' }
+removed $-> with open("file.txt",'w') as f:
+    f.write('hello world')
+final-> with open("file.txt",'w') as f:
+print(    f.write('hello world'))
+***Done*** Mon Jun 08 2020 12:25:44 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:25:52 GMT+0000 (UTC)
+initail-> with open("file.txt",'w') as f:
+    f.write('hello world')
+
+
+varObj-> { '$i': '1' }
+removed $-> with open("file.txt",'w') as f:
+    f.write('hello world')
+final-> with open("file.txt",'w') as f:
+print(    f.write('hello world'))
+***Done*** Mon Jun 08 2020 12:25:53 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:26:36 GMT+0000 (UTC)
+initail-> l=4
+for i in range(0,10):
+   l+=i
+l 
+
+varObj-> { '$i': '1' }
+removed $-> l=4
+for i in range(0,10):
+   l+=i
+l
+final-> l=4
+for i in range(0,10):
+   l+=i
+print(l)
+***Done*** Mon Jun 08 2020 12:26:37 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:26:50 GMT+0000 (UTC)
+initail-> with open("file.txt",'w') as f:
+    f.write('hello world')
+l=4;
+l 
+
+varObj-> { '$i': '1' }
+removed $-> with open("file.txt",'w') as f:
+    f.write('hello world')
+l=4;
+l
+final-> with open("file.txt",'w') as f:
+    f.write('hello world')
+l=4;
+print(l)
+***Done*** Mon Jun 08 2020 12:26:51 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:27:40 GMT+0000 (UTC)
+initail-> import os
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+l=4;
+datetime.now()
+
+varObj-> { '$i': '1' }
+removed $-> import os
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+l=4;
+datetime.now()
+final-> import os
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+l=4;
+print(datetime.now())
+***Done*** Mon Jun 08 2020 12:27:41 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:28:00 GMT+0000 (UTC)
+initail-> import os
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+l=4;
+os.system('ls')
+
+varObj-> { '$i': '1' }
+removed $-> import os
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+l=4;
+os.system('ls')
+final-> import os
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+l=4;
+print(os.system('ls'))
+***Done*** Mon Jun 08 2020 12:28:02 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:28:23 GMT+0000 (UTC)
+initail-> import os
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+l=4;
+os.system('cd bin && ls')
+
+varObj-> { '$i': '1' }
+removed $-> import os
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+l=4;
+os.system('cd bin && ls')
+final-> import os
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+l=4;
+print(os.system('cd bin && ls'))
+***Done*** Mon Jun 08 2020 12:28:26 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:29:09 GMT+0000 (UTC)
+initail-> import os
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+with open("file.txt",'r') as f:
+    l=f.read()
+
+l
+varObj-> { '$i': '1' }
+removed $-> import os
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+with open("file.txt",'r') as f:
+    l=f.read()
+
+l
+final-> import os
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+with open("file.txt",'r') as f:
+    l=f.read()
+
+print(l)
+***Done*** Mon Jun 08 2020 12:29:10 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:29:34 GMT+0000 (UTC)
+initail-> import os
+import time
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+time.sleep(10000*11)
+
+with open("file.txt",'r') as f:
+    l=f.read()
+
+l
+varObj-> { '$i': '1' }
+removed $-> import os
+import time
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+time.sleep(10000*11)
+
+with open("file.txt",'r') as f:
+    l=f.read()
+
+l
+final-> import os
+import time
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+time.sleep(10000*11)
+
+with open("file.txt",'r') as f:
+    l=f.read()
+
+print(l)
+***Done*** Mon Jun 08 2020 12:29:44 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:31:37 GMT+0000 (UTC)
+initail-> import os
+import requests
+import time
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+
+with open("file.txt",'r') as f:
+    l=f.read()
+
+requests.get('www.google.com')
+varObj-> { '$i': '1' }
+removed $-> import os
+import requests
+import time
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+
+with open("file.txt",'r') as f:
+    l=f.read()
+
+requests.get('www.google.com')
+final-> import os
+import requests
+import time
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+
+with open("file.txt",'r') as f:
+    l=f.read()
+
+print(requests.get('www.google.com'))
+***Done*** Mon Jun 08 2020 12:31:39 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:31:51 GMT+0000 (UTC)
+initail-> import os
+import request
+import time
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+
+with open("file.txt",'r') as f:
+    l=f.read()
+
+request.get('www.google.com')
+varObj-> { '$i': '1' }
+removed $-> import os
+import request
+import time
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+
+with open("file.txt",'r') as f:
+    l=f.read()
+
+request.get('www.google.com')
+final-> import os
+import request
+import time
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+
+with open("file.txt",'r') as f:
+    l=f.read()
+
+print(request.get('www.google.com'))
+***Done*** Mon Jun 08 2020 12:31:53 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:32:08 GMT+0000 (UTC)
+initail-> import os
+import urllib
+import time
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+
+with open("file.txt",'r') as f:
+    l=f.read()
+
+urllib.get('www.google.com')
+varObj-> { '$i': '1' }
+removed $-> import os
+import urllib
+import time
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+
+with open("file.txt",'r') as f:
+    l=f.read()
+
+urllib.get('www.google.com')
+final-> import os
+import urllib
+import time
+from datetime import datetime
+
+with open("file.txt",'w') as f:
+    f.write('hello world')
+
+
+with open("file.txt",'r') as f:
+    l=f.read()
+
+print(urllib.get('www.google.com'))
+***Done*** Mon Jun 08 2020 12:32:09 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:34:41 GMT+0000 (UTC)
+initail-> let fn = async ()=>{
+    return fetch("www.google.com")
+}
+l=fn()
+l
+varObj-> { '$i': '1' }
+removed $-> let fn = async ()=>{
+    return fetch("www.google.com")
+}
+l=fn()
+l
+final-> let fn = async ()=>{
+    return fetch("www.google.com")
+}
+l=fn()
+console.log(l)
+***Done*** Mon Jun 08 2020 12:34:51 GMT+0000 (UTC)
+***Started*** Mon Jun 08 2020 12:35:41 GMT+0000 (UTC)
+initail-> let l = (async ()=>{
+    return fetch("www.google.com")
+})();
+l
+varObj-> { '$i': '1' }
+removed $-> let l = (async ()=>{
+    return fetch("www.google.com")
+})();
+l
+final-> let l = (async ()=>{
+    return fetch("www.google.com")
+})();
+console.log(l)
+***Done*** Mon Jun 08 2020 12:35:51 GMT+0000 (UTC)
+get api to see all codes
