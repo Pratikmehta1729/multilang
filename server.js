@@ -70,7 +70,7 @@ app.get("/:id", async (req, res) => {
 });
 
 app.get("/", async (req, res) => {
-  res.sendFile(path.join(__dirname, "build", "index.html"));
+  res.sendFile(path.join(__dirname, "client/build", "index.html"));
 });
 
 app.get("/all", async (req, res) => {
